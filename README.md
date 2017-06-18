@@ -9,6 +9,10 @@ Code should be used for inspiration, not duplication.
 
 The code here is currently a work in progress. The admin microservice is functional, but the cashier and barista services are not finished and don't compile. I'm happy to take a pull request :-)
 
+##Video
+
+https://www.youtube.com/watch?v=jQGQQZlm90Q&t=2532
+
 ##Slides
 
 If you're interested in the slides related to this code, [they're on SlideShare](http://www.slideshare.net/rbanks54/architecting-microservices-in-net)
